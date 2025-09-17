@@ -65,8 +65,8 @@ python code/align_transcripts.py \
     --input_dir outputs/transcripts \
     --output_file outputs/multi_way.jsonl
 ```
----
 
+---
 
 ## 🧪 Experiments
 + Requirements: LLaMA-Factory (latest version).
@@ -121,6 +121,8 @@ resume_from_checkpoint: null
 report_to: wandb
 run_name: qwen_72b_ted
 ```
+
+---
 
 ## 📖 Citation
 
