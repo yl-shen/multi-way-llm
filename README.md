@@ -131,18 +131,37 @@ run_name: qwen_72b_ted
 
 If you find our work useful, please cite us:
 ```bibtex
-@article{shen2025unaligned,
-  title={From Unaligned to Aligned: Scaling Multilingual LLMs with Multi-Way Parallel Corpora},
-  author={Shen, Yingli and Lai, Wen and Wang, Shuo and Luo, Kangyang and Fraser, Alexander and Sun, Maosong},
-  journal={arXiv preprint arXiv:2505.14045},
-  year={2025}
+@inproceedings{shen-etal-2025-unaligned,
+    title = "From Unaligned to Aligned: Scaling Multilingual {LLM}s with Multi-Way Parallel Corpora",
+    author = "Shen, Yingli  and
+      Lai, Wen  and
+      Wang, Shuo  and
+      Gao, Ge  and
+      Luo, Kangyang  and
+      Fraser, Alexander  and
+      Sun, Maosong",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-main.374/",
+    doi = "10.18653/v1/2025.emnlp-main.374",
+    pages = "7368--7390",
+    ISBN = "979-8-89176-332-6",
 }
 ```
 ```bibtex
-@article{shen2025dcad,
-  title={DCAD-2000: A Multilingual Dataset across 2000+ Languages with Data Cleaning as Anomaly Detection},
-  author={Shen, Yingli and Lai, Wen and Wang, Shuo and Zhang, Xueren and Luo, Kangyang and Fraser, Alexander and Sun, Maosong},
-  journal={arXiv preprint arXiv:2502.11546},
-  year={2025}
+@inproceedings{
+    shen2025dcad,
+    title={{DCAD}-2000: A Multilingual Dataset across 2000+ Languages with Data Cleaning as Anomaly Detection},
+    author={Yingli Shen and Wen Lai and Shuo Wang and Xueren Zhang and Kangyang Luo and Alexander Fraser and Maosong Sun},
+    booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
+    year={2025},
+    url={https://openreview.net/forum?id=Hqoywh28zV}
 }
 ```
